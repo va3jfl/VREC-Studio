@@ -22,14 +22,15 @@
 </p>
 
 <p align="left">
-  <b>Close up view of vinyl:</b>
+  <b>PNG pressed vinyl:</b>
 </p>
-
 <p align="left">
   <a href="screenshot2.jpg" target="_blank">
     <img src="screenshot2.jpg" width="40%" alt="Close up view of PNG pressed vinyl">
   </a>
 </p>
+
+## How To run:
 
 ```
 python vinyl_studio.py        ← the app. No command line beyond this.
