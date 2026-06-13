@@ -11,12 +11,25 @@ audio. The fine groove texture in the image is the actual sample data: every
 audio sample owns exactly one pixel along an Archimedean spiral, with its
 brightness encoding the μ-law amplitude. Send someone the PNG and they can
 play it — or scratch it — on the virtual turntable.
+</div>
+
+### 📸 Screenshots
+*Click images to expand*
+
+<p align="left">
+  <a href="screenshot1.jpg" target="_blank">
+    <img src="screenshot1.jpg" width="40%" alt="VREC-studio Player" style="margin-right: 2%;">
+  </a> <br>
+  <a href="screenshot2.jpg" target="_blank">
+    <img src="screenshot2.jpg" width="55%" alt="PNG Pressed Vinyl" style="margin-left: 2%;">
+  </a>
+</p>
 
 ```
 python vinyl_studio.py        ← the app. No command line beyond this.
 ```
 
-**Vinyl Studio** is a windowed app suite: a home menu, a *Press a Record*
+Vinyl_studio.py is a windowed app suite: a home menu, a *Press a Record*
 screen (browse for a WAV, type the title, click size / quality / label
 color, watch a live capacity readout, hit PRESS), and a turntable *Deck*
 where the record visibly spins under a tracking tonearm with clickable
