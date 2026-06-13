@@ -1,17 +1,16 @@
-<div align="center">
+<h1 align="center">VREC Studio By Joel Lagace — Virtual Vinyl Records</h1>
 
-# VREC Studio By Joel Lagace — Virtual Vinyl Records
+<p align="center">
+  <a href="#install"><img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python 3.8+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
+  <a href="#install"><img src="https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey" alt="Platform"></a>
+</p>
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](#requirements)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey)](#requirements)
-
-Press a WAV file onto a PNG that *looks* like a vinyl record and *is* the
-audio. The fine groove texture in the image is the actual sample data: every
-audio sample owns exactly one pixel along an Archimedean spiral, with its
-brightness encoding the μ-law amplitude. Send someone the PNG and they can
-play it — or scratch it — on the virtual turntable.
-</div>
+<p align="center">
+  Press a WAV file onto a PNG that <em>looks</em> like a vinyl record and <em>is</em> the audio.<br>
+  The fine groove texture in the image is the actual sample data: every audio sample owns exactly one pixel along an Archimedean spiral, with its brightness encoding the μ-law amplitude.<br>
+  Send someone the PNG and they can play it — or scratch it — on the virtual turntable.
+</p>
 
 ### 📸 Screenshots
 *Click images to expand*
