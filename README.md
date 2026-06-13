@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="screenshot.png" target="_blank">
-    <img src="screenshot.png" width="100%" alt="VREC Studio Player">
+    <img src="screenshot.png" width="80%" alt="VREC Studio Player">
   </a>
 </p>
 
