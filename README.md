@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="screenshot2.jpg" target="_blank">
-    <img src="screenshot2.jpg" width="50%" alt="Close up view of PNG pressed vinyl">
+    <img src="screenshot2.jpg" width="40%" alt="Close up view of PNG pressed vinyl">
   </a>
 </p>
 
