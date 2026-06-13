@@ -1,4 +1,10 @@
+<div align="center">
+
 # VREC Studio By Joel Lagace — Virtual Vinyl Records
+
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](#requirements)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey)](#requirements)
 
 Press a WAV file onto a PNG that *looks* like a vinyl record and *is* the
 audio. The fine groove texture in the image is the actual sample data: every
