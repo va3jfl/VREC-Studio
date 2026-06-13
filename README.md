@@ -16,8 +16,8 @@
 *Click images to expand*
 
 <p align="left">
-  <a href="screenshot.jpg" target="_blank">
-    <img src="screenshot.jpg" width="100%" alt="VREC-studio Player" style="margin-right: 2%;">
+  <a href="screenshot.png" target="_blank">
+    <img src="screenshot.png" width="100%" alt="VREC-studio Player" style="margin-right: 2%;">
   </a> <br>
   <a href="screenshot2.jpg" target="_blank">
     <img src="screenshot2.jpg" width="55%" alt="PNG Pressed Vinyl" style="margin-left: 2%;">
