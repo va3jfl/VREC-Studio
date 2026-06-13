@@ -17,10 +17,17 @@
 
 <p align="left">
   <a href="screenshot.png" target="_blank">
-    <img src="screenshot.png" width="100%" alt="VREC-studio Player" style="margin-right: 2%;">
-  </a> <br>
+    <img src="screenshot.png" width="100%" alt="VREC Studio Player">
+  </a>
+</p>
+
+<p align="left">
+  <b>Close up view of vinyl:</b>
+</p>
+
+<p align="left">
   <a href="screenshot2.jpg" target="_blank">
-    <img src="screenshot2.jpg" width="55%" alt="PNG Pressed Vinyl" style="margin-left: 2%;">
+    <img src="screenshot2.jpg" width="50%" alt="Close up view of PNG pressed vinyl">
   </a>
 </p>
 
